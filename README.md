@@ -25,7 +25,10 @@ A mix of tools and frameworks, carefully assembled to deliver robust and scalabl
 
 ## 🔹 Recent Experience
 
-### **Senior Software Engineer – Anaconda** *(2022 - Present)*
+### **Staff Software Engineer – Anaconda** *(2025 - Present)*
+Continued responsibilities from the previous role. Recently having fun with [pythonanywhere-mcp-server](https://github.com/pythonanywhere/pythonanywhere-mcp-server)
+
+### **Senior Software Engineer – Anaconda** *(2022 - 2025)*
 Working on **cloud-based infrastructure** and **system integration** post **PythonAnywhere**'s acquisition. Assisting with **onboarding and mentoring** new engineers.  
 
 ### **Software Engineer – PythonAnywhere** *(2018 - 2022)*
